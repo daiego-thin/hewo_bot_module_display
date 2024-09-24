@@ -1,0 +1,11 @@
+  mouth:
+    upper_lip:
+        color:
+            r: 231
+            g: 210
+            b: 146
+    lower_lip:
+        color:
+            r: 231
+            g: 210
+            b: 146

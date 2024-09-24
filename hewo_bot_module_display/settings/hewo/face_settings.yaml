@@ -1,0 +1,133 @@
+surface:
+  size:
+    width: 593.312629199899
+    height: 395.5417527999327
+  position:
+    x: 0
+    y: 0
+  color:
+    r: 100
+    g: 139
+    b: 127
+elements:
+  left_eye:
+    surface:
+      size:
+        width: 118.66252583997979
+        height: 316.43340223994613
+      position:
+        x: 0
+        y: 0
+      color:
+        r: 100
+        g: 139
+        b: 127
+    elements:
+      pupil:
+        size:
+          width: 59.331262919989896
+          height: 158.21670111997307
+        position:
+          x: 0
+          y: 0
+        color:
+          r: 231
+          g: 210
+          b: 146
+      top_lash:
+        size:
+          width: 118.66252583997979
+          height: 158.21670111997307
+        position:
+          x: 0
+          y: 0
+        color:
+          r: 100
+          g: 139
+          b: 127
+      bot_lash:
+        size:
+          width: 118.66252583997979
+          height: 158.21670111997307
+        position:
+          x: 0
+          y: 158.21670111997307
+        color:
+          r: 100
+          g: 139
+          b: 127
+    size:
+      width: 118.6625258399798
+      height: 316.4334022399462
+    position:
+      x: 0
+      y: 0
+  right_eye:
+    surface:
+      size:
+        width: 118.66252583997979
+        height: 316.43340223994613
+      position:
+        x: 474.65010335991917
+        y: 0
+      color:
+        r: 100
+        g: 139
+        b: 127
+    elements:
+      pupil:
+        size:
+          width: 59.331262919989896
+          height: 158.21670111997307
+        position:
+          x: 0
+          y: 0
+        color:
+          r: 231
+          g: 210
+          b: 146
+      top_lash:
+        size:
+          width: 118.66252583997979
+          height: 158.21670111997307
+        position:
+          x: 0
+          y: 0
+        color:
+          r: 100
+          g: 139
+          b: 127
+      bot_lash:
+        size:
+          width: 118.66252583997979
+          height: 158.21670111997307
+        position:
+          x: 0
+          y: 158.21670111997307
+        color:
+          r: 100
+          g: 139
+          b: 127
+  mouth:
+    surface:
+      size:
+        width: 355.9875775199394
+        height: 79.10835055998655
+      position:
+        x: 118.6625258399798
+        y: 316.4334022399462
+      color:
+        r: 100
+        g: 139
+        b: 127
+    elements:
+      top_lip:
+        color:
+          r: 231
+          g: 210
+          b: 146
+      bot_lip:
+        color:
+          r: 231
+          g: 210
+          b: 146
